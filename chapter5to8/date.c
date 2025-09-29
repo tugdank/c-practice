@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+/* Printing a date in legal form.*/
 
 int main(void)
 {

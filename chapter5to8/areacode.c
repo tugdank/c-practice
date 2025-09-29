@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+/*Write a switch statement that matches the area code with the city name.*/
 
 int main(void)
 {
